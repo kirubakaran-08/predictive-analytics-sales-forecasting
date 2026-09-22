@@ -1,7 +1,4 @@
 # Predictive Analytics Using Historical Data
-
-## Thiranex Data Analytics Internship — Task 3
-
 This project forecasts monthly Superstore sales using SARIMAX time-series forecasting.
 
 ## Workflow
